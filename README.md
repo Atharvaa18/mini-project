@@ -1,1 +1,1 @@
-"# mini-project" 
+"# DOM-Manipulation mini projects" 
